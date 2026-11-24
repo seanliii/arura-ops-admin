@@ -1,0 +1,57 @@
+{
+  "name": "Español (Latinoamérica)",
+  "ui": {
+    "documents": "Documentos legales",
+    "language": "Idioma",
+    "skip": "Ir al contenido",
+    "updated": "Última actualización: ",
+    "operator": "Operador: ",
+    "terms": "Términos del servicio",
+    "privacy": "Política de privacidad"
+  },
+  "terms": {
+    "title": "Términos del servicio",
+    "date": "17 de octubre de 2026",
+    "intro": "Estos Términos del servicio (los “Términos”) establecen las condiciones de uso del servicio de series cortas “aurora” (el “Servicio”), ofrecido por {company} (la “Empresa”).",
+    "sections": [
+      ["1. Aplicación", "El Servicio se ofrece como un Mini (miniaplicación) dentro de la plataforma TikTok. Para utilizarlo, los usuarios deben aceptar estos Términos y los términos del servicio de TikTok."],
+      ["2. Cuentas", "El Servicio puede utilizarse mediante el inicio de sesión silencioso con una cuenta de TikTok."],
+      ["3. Compra de contenido", [
+        "Algunos episodios se pueden ver gratis.",
+        "Si se ofrece la compra de episodios o series de pago, el contenido, el precio y las condiciones de visualización se mostrarán en la pantalla de confirmación de compra.",
+        "Las compras y los cobros reales se realizarán mediante los pagos de la plataforma TikTok (como Beans) una vez que estén disponibles. Los pagos de prueba no generan cargos reales.",
+        "Los reembolsos posteriores a la compra se rigen por la legislación aplicable y las políticas de pago de TikTok."
+      ]],
+      ["4. Membresía VIP (suscripciones)", "Las suscripciones VIP están en preparación. Actualmente no se aceptan solicitudes de suscripción ni se realizan cobros de suscripciones. Si se ofrecen en el futuro, antes de suscribirse se informará el precio, las series incluidas, la duración del contrato, si hay renovación automática y cómo cancelar."],
+      ["5. Derechos de propiedad intelectual", "Los derechos de autor y otros derechos de propiedad intelectual sobre el contenido del Servicio (videos, imágenes, audio, textos y otros) pertenecen a la Empresa o a sus titulares legítimos."],
+      ["6. Conductas prohibidas", "Se prohíben la copia, distribución, retransmisión o grabación no autorizadas del contenido, el uso comercial de capturas de pantalla y otras conductas similares."],
+      ["7. Exención de responsabilidad", "La Empresa actúa con un cuidado razonable al prestar el Servicio, pero no garantiza su integridad ni su continuidad. La Empresa limita su responsabilidad en la medida permitida por la ley."],
+      ["8. Cambios en los Términos", "La Empresa puede modificar estos Términos cuando sea necesario. Los Términos modificados entran en vigor al publicarse en esta página."],
+      ["9. Contacto", "Si tienes preguntas sobre estos Términos, comunícate con {email}."]
+    ]
+  },
+  "privacy": {
+    "title": "Política de privacidad",
+    "date": "21 de octubre de 2026",
+    "intro": "{company} (la “Empresa”) establece a continuación cómo trata la información de los usuarios del servicio de series cortas “aurora” (el “Servicio”).",
+    "sections": [
+      ["1. Información que recopilamos", [
+        "Información de la cuenta: identificador del usuario (open_id), apodo e imagen de perfil obtenidos al iniciar sesión en TikTok.",
+        "Información de uso: historial de visualización, historial de compras y estado de la suscripción.",
+        "Información técnica: tipo de dispositivo, sistema operativo, versión de la aplicación y horarios de uso.",
+        "Estadísticas agregadas de visualización y reproducción de series: usamos el hash de un identificador aleatorio que se utiliza solo mientras la página está abierta, los números de serie y episodio y la hora de cada evento. Las reproducciones con sesión iniciada se vinculan al identificador de la cuenta para generar estadísticas sobre el estado de compra de las series. No usamos huellas digitales del dispositivo ni identificadores publicitarios para estas estadísticas. Se conservan los registros de eventos de los últimos 30 días; los registros vencidos se eliminan cuando se reciben eventos nuevos. Si el navegador emite la señal Do Not Track, estos eventos no se envían."
+      ]],
+      ["2. Finalidades de uso", [
+        "Prestar y operar el Servicio (administrar los permisos de visualización y distribuir el contenido comprado).",
+        "Procesar pagos y otorgar derechos de acceso.",
+        "Realizar análisis para mejorar el Servicio.",
+        "Responder consultas."
+      ]],
+      ["3. Intercambio de información", "No vendemos ni proporcionamos información personal de los usuarios a terceros, salvo en los casos previstos por la ley. Intercambiamos la información necesaria con la plataforma TikTok para procesar los pagos."],
+      ["4. Almacenamiento y seguridad de la información", "La Empresa almacena de forma segura la información recopilada y se esfuerza por prevenir el acceso no autorizado, las filtraciones y las alteraciones."],
+      ["5. Derechos de los usuarios", "Los usuarios pueden solicitar a la Empresa que les comunique, corrija o elimine su propia información."],
+      ["6. Menores de edad", "El Servicio puede establecer restricciones de edad conforme a la legislación aplicable. Los menores deben obtener el consentimiento de sus padres o tutores antes de utilizarlo."],
+      ["7. Contacto", "Si tienes preguntas sobre esta Política, comunícate con {email}."]
+    ]
+  }
+}

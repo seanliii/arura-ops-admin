@@ -1,0 +1,57 @@
+{
+  "name": "English",
+  "ui": {
+    "documents": "Legal documents",
+    "language": "Language",
+    "skip": "Skip to content",
+    "updated": "Last updated: ",
+    "operator": "Operator: ",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy"
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "date": "October 17, 2026",
+    "intro": "These Terms of Service (the “Terms”) set out the conditions for using the short-drama service “aurora” (the “Service”) provided by {company} (the “Company”).",
+    "sections": [
+      ["1. Application", "The Service is provided as a Mini (mini app) within the TikTok platform. Users must agree to these Terms as well as TikTok’s terms of service to use the Service."],
+      ["2. Accounts", "The Service can be used through silent login with a TikTok account."],
+      ["3. Content purchases", [
+        "Some episodes can be watched free of charge.",
+        "If purchases of paid episodes or titles are offered, the content, price and viewing conditions will be displayed on the purchase confirmation screen.",
+        "Actual purchases and charges will be processed through TikTok platform payments (such as Beans) after they become available. Test payments do not result in actual charges.",
+        "Refunds after purchase are subject to applicable laws and TikTok’s payment policies."
+      ]],
+      ["4. VIP membership (subscriptions)", "VIP subscriptions are currently in preparation. We are not accepting subscription sign-ups or charging for subscriptions at this time. If subscriptions become available, we will provide information about pricing, eligible titles, the subscription term, whether renewal is automatic and how to cancel before sign-up."],
+      ["5. Intellectual property rights", "Copyright and other intellectual property rights in the content included in the Service (videos, images, audio, text and other content) belong to the Company or the lawful rights holders."],
+      ["6. Prohibited conduct", "Unauthorized copying, distribution, retransmission or recording of content, commercial use of screenshots and similar activities are prohibited."],
+      ["7. Disclaimer", "The Company exercises reasonable care in providing the Service, but does not guarantee the completeness or continuity of the Service. The Company limits its liability to the extent permitted by law."],
+      ["8. Changes to the Terms", "The Company may change these Terms as necessary. Revised Terms take effect when posted on this page."],
+      ["9. Contact", "For inquiries about these Terms, please contact {email}."]
+    ]
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "date": "October 21, 2026",
+    "intro": "{company} (the “Company”) sets out below how it handles user information in the short-drama service “aurora” (the “Service”).",
+    "sections": [
+      ["1. Information we collect", [
+        "Account information: the user identifier (open_id), nickname and profile picture obtained through TikTok login.",
+        "Usage information: viewing history, purchase history and subscription status.",
+        "Technical information: device type, operating system, app version and usage times.",
+        "Aggregated statistics on title displays and playback: we use a hash of a random identifier used only while the page is open, title and episode numbers, and event times. Playback while logged in is associated with the account identifier to compile statistics on title purchase status. We do not use device fingerprints or advertising identifiers for these statistics. Event records are retained for the most recent 30 days; expired records are deleted when new events are received. If the browser signals Do Not Track, these events are not sent."
+      ]],
+      ["2. Purposes of use", [
+        "Providing and operating the Service (managing viewing access and delivering purchased content).",
+        "Processing payments and granting access rights.",
+        "Analysis to improve the Service.",
+        "Responding to inquiries."
+      ]],
+      ["3. Sharing information", "We do not sell or provide users’ personal information to third parties, except in cases provided for by law. We exchange necessary information with the TikTok platform to process payments."],
+      ["4. Information storage and security", "The Company stores collected information securely and strives to prevent unauthorized access, leaks and tampering."],
+      ["5. User rights", "Users may request disclosure, correction or deletion of their own information from the Company."],
+      ["6. Minors", "The Service may impose age restrictions under applicable laws. Minors should obtain permission from their parent or guardian before using the Service."],
+      ["7. Contact", "For inquiries about this Policy, please contact {email}."]
+    ]
+  }
+}

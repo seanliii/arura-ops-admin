@@ -1,0 +1,49 @@
+{
+  "defaultLanguage": "en",
+  "aliases": {
+    "zh-CN": "zh-Hans",
+    "zh-TW": "zh-Hant"
+  },
+  "languages": {
+    "en": {
+      "terms": "terms.html",
+      "privacy": "privacy.html"
+    },
+    "ja": {
+      "terms": "locales/ja/terms.html",
+      "privacy": "locales/ja/privacy.html"
+    },
+    "zh-Hans": {
+      "terms": "locales/zh-Hans/terms.html",
+      "privacy": "locales/zh-Hans/privacy.html"
+    },
+    "zh-Hant": {
+      "terms": "locales/zh-Hant/terms.html",
+      "privacy": "locales/zh-Hant/privacy.html"
+    },
+    "es": {
+      "terms": "locales/es/terms.html",
+      "privacy": "locales/es/privacy.html"
+    },
+    "fr": {
+      "terms": "locales/fr/terms.html",
+      "privacy": "locales/fr/privacy.html"
+    },
+    "ar": {
+      "terms": "locales/ar/terms.html",
+      "privacy": "locales/ar/privacy.html"
+    },
+    "pt-BR": {
+      "terms": "locales/pt-BR/terms.html",
+      "privacy": "locales/pt-BR/privacy.html"
+    },
+    "es-419": {
+      "terms": "locales/es-419/terms.html",
+      "privacy": "locales/es-419/privacy.html"
+    },
+    "ms": {
+      "terms": "locales/ms/terms.html",
+      "privacy": "locales/ms/privacy.html"
+    }
+  }
+}

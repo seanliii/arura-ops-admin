@@ -1,0 +1,57 @@
+{
+  "name": "Français",
+  "ui": {
+    "documents": "Documents juridiques",
+    "language": "Langue",
+    "skip": "Aller au contenu",
+    "updated": "Dernière mise à jour : ",
+    "operator": "Exploitant : ",
+    "terms": "Conditions d’utilisation",
+    "privacy": "Politique de confidentialité"
+  },
+  "terms": {
+    "title": "Conditions d’utilisation",
+    "date": "17 octobre 2026",
+    "intro": "Les présentes conditions d’utilisation (les « Conditions ») définissent les conditions d’utilisation du service de séries courtes « aurora » (le « Service »), fourni par {company} (la « Société »).",
+    "sections": [
+      ["1. Application", "Le Service est proposé sous la forme d’un Mini (mini-application) au sein de la plateforme TikTok. Les utilisateurs doivent accepter les présentes Conditions ainsi que les conditions d’utilisation de TikTok pour utiliser le Service."],
+      ["2. Comptes", "Le Service peut être utilisé au moyen d’une connexion silencieuse avec un compte TikTok."],
+      ["3. Achat de contenu", [
+        "Certains épisodes peuvent être visionnés gratuitement.",
+        "Si l’achat d’épisodes ou de séries payants est proposé, le contenu concerné, le prix et les conditions de visionnage seront affichés sur l’écran de confirmation d’achat.",
+        "Les achats et débits réels seront effectués par les moyens de paiement de la plateforme TikTok (tels que Beans) après leur mise à disposition. Les paiements de test n’entraînent aucun débit réel.",
+        "Les remboursements après achat sont soumis à la législation applicable et aux politiques de paiement de TikTok."
+      ]],
+      ["4. Adhésion VIP (abonnements)", "Les abonnements VIP sont actuellement en préparation. Aucune souscription ni facturation d’abonnement n’est effectuée à ce jour. S’ils sont proposés, le tarif, les séries concernées, la durée du contrat, l’existence ou non d’un renouvellement automatique et les modalités de résiliation seront précisés avant la souscription."],
+      ["5. Droits de propriété intellectuelle", "Les droits d’auteur et autres droits de propriété intellectuelle sur le contenu du Service (vidéos, images, sons, textes, etc.) appartiennent à la Société ou à leurs titulaires légitimes."],
+      ["6. Comportements interdits", "La reproduction, la distribution, la rediffusion ou l’enregistrement non autorisés du contenu, l’utilisation commerciale de captures d’écran et les actes similaires sont interdits."],
+      ["7. Limitation de responsabilité", "La Société apporte un soin raisonnable à la fourniture du Service, sans toutefois en garantir l’exhaustivité ni la continuité. Elle limite sa responsabilité dans la mesure permise par la loi."],
+      ["8. Modification des Conditions", "La Société peut modifier les présentes Conditions si nécessaire. Les Conditions modifiées prennent effet dès leur publication sur cette page."],
+      ["9. Contact", "Pour toute question concernant les présentes Conditions, veuillez contacter {email}."]
+    ]
+  },
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "date": "21 octobre 2026",
+    "intro": "{company} (la « Société ») définit ci-dessous les modalités de traitement des informations des utilisateurs du service de séries courtes « aurora » (le « Service »).",
+    "sections": [
+      ["1. Informations recueillies", [
+        "Informations de compte : identifiant utilisateur (open_id), pseudonyme et photo de profil obtenus lors de la connexion à TikTok.",
+        "Informations d’utilisation : historique de visionnage, historique des achats et statut de l’abonnement.",
+        "Informations techniques : type d’appareil, système d’exploitation, version de l’application et horaires d’utilisation.",
+        "Statistiques agrégées d’affichage et de lecture des séries : nous utilisons le hachage d’un identifiant aléatoire utilisé uniquement tant que la page est ouverte, les numéros de série et d’épisode, ainsi que l’heure des événements. Les lectures effectuées pendant une session connectée sont associées à l’identifiant du compte afin d’établir des statistiques sur l’état d’achat des séries. Ces statistiques n’utilisent ni empreinte de l’appareil ni identifiant publicitaire. Les événements des 30 derniers jours sont conservés ; les enregistrements périmés sont supprimés lors de la réception de nouveaux événements. Si le navigateur émet le signal Do Not Track, ces événements ne sont pas envoyés."
+      ]],
+      ["2. Finalités d’utilisation", [
+        "Fourniture et exploitation du Service (gestion des droits de visionnage et diffusion du contenu acheté).",
+        "Traitement des paiements et attribution des droits d’accès.",
+        "Analyses destinées à améliorer le Service.",
+        "Réponse aux demandes de renseignements."
+      ]],
+      ["3. Partage des informations", "Nous ne vendons ni ne fournissons les informations personnelles des utilisateurs à des tiers, sauf dans les cas prévus par la loi. Nous échangeons les informations nécessaires avec la plateforme TikTok pour traiter les paiements."],
+      ["4. Stockage et sécurité des informations", "La Société stocke les informations recueillies de manière sécurisée et s’efforce de prévenir les accès non autorisés, les fuites et les altérations."],
+      ["5. Droits des utilisateurs", "Les utilisateurs peuvent demander à la Société la communication, la rectification ou la suppression de leurs propres informations."],
+      ["6. Mineurs", "Le Service peut prévoir des restrictions d’âge en vertu de la législation applicable. Les mineurs sont priés d’obtenir le consentement de leur parent ou représentant légal avant de l’utiliser."],
+      ["7. Contact", "Pour toute question concernant la présente Politique, veuillez contacter {email}."]
+    ]
+  }
+}

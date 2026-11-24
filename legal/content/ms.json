@@ -1,0 +1,57 @@
+{
+  "name": "Bahasa Melayu",
+  "ui": {
+    "documents": "Dokumen undang-undang",
+    "language": "Bahasa",
+    "skip": "Langkau ke kandungan",
+    "updated": "Kemas kini terakhir: ",
+    "operator": "Pengendali: ",
+    "terms": "Terma Perkhidmatan",
+    "privacy": "Dasar Privasi"
+  },
+  "terms": {
+    "title": "Terma Perkhidmatan",
+    "date": "17 Oktober 2026",
+    "intro": "Terma Perkhidmatan ini (“Terma”) menetapkan syarat penggunaan perkhidmatan drama pendek “aurora” (“Perkhidmatan”) yang disediakan oleh {company} (“Syarikat”).",
+    "sections": [
+      ["1. Pemakaian", "Perkhidmatan disediakan sebagai Mini (aplikasi mini) dalam platform TikTok. Pengguna perlu bersetuju dengan Terma ini serta terma perkhidmatan TikTok untuk menggunakan Perkhidmatan."],
+      ["2. Akaun", "Perkhidmatan boleh digunakan melalui log masuk senyap menggunakan akaun TikTok."],
+      ["3. Pembelian kandungan", [
+        "Sesetengah episod boleh ditonton secara percuma.",
+        "Jika pembelian episod atau siri berbayar ditawarkan, kandungan, harga dan syarat tontonan akan dipaparkan pada skrin pengesahan pembelian.",
+        "Pembelian dan caj sebenar akan diproses melalui pembayaran platform TikTok (seperti Beans) selepas tersedia. Pembayaran ujian tidak melibatkan caj sebenar.",
+        "Bayaran balik selepas pembelian tertakluk pada undang-undang yang terpakai dan dasar pembayaran TikTok."
+      ]],
+      ["4. Keahlian VIP (langganan)", "Langganan VIP masih dalam persediaan. Pada masa ini, kami tidak menerima permohonan langganan atau mengenakan caj langganan. Jika langganan ditawarkan, kami akan memaklumkan harga, siri yang disertakan, tempoh kontrak, sama ada pembaharuan adalah automatik dan cara pembatalan sebelum pendaftaran."],
+      ["5. Hak harta intelek", "Hak cipta dan hak harta intelek lain bagi kandungan dalam Perkhidmatan (video, imej, audio, teks dan sebagainya) adalah milik Syarikat atau pemegang hak yang sah."],
+      ["6. Perbuatan yang dilarang", "Penyalinan, pengedaran, penyiaran semula atau rakaman kandungan tanpa kebenaran, penggunaan komersial tangkapan skrin dan perbuatan seumpamanya adalah dilarang."],
+      ["7. Penafian", "Syarikat mengambil langkah berjaga-jaga yang munasabah dalam menyediakan Perkhidmatan, tetapi tidak menjamin kelengkapan atau kesinambungannya. Syarikat mengehadkan liabilitinya setakat yang dibenarkan oleh undang-undang."],
+      ["8. Perubahan Terma", "Syarikat boleh mengubah Terma ini apabila perlu. Terma yang diubah berkuat kuasa apabila diterbitkan pada halaman ini."],
+      ["9. Hubungi kami", "Untuk pertanyaan tentang Terma ini, sila hubungi {email}."]
+    ]
+  },
+  "privacy": {
+    "title": "Dasar Privasi",
+    "date": "21 Oktober 2026",
+    "intro": "{company} (“Syarikat”) menetapkan di bawah cara maklumat pengguna dikendalikan dalam perkhidmatan drama pendek “aurora” (“Perkhidmatan”).",
+    "sections": [
+      ["1. Maklumat yang dikumpulkan", [
+        "Maklumat akaun: pengecam pengguna (open_id), nama panggilan dan gambar profil yang diperoleh melalui log masuk TikTok.",
+        "Maklumat penggunaan: sejarah tontonan, sejarah pembelian dan status langganan.",
+        "Maklumat teknikal: jenis peranti, sistem pengendalian, versi aplikasi dan waktu penggunaan.",
+        "Statistik agregat paparan dan main balik siri: kami menggunakan nilai cincangan pengecam rawak yang digunakan hanya semasa halaman terbuka, nombor siri dan episod, serta waktu peristiwa berlaku. Main balik semasa log masuk dikaitkan dengan pengecam akaun untuk mengumpulkan statistik status pembelian siri. Kami tidak menggunakan cap jari peranti atau pengecam pengiklanan untuk statistik ini. Rekod peristiwa disimpan untuk 30 hari terkini; rekod yang tamat tempoh dipadam apabila peristiwa baharu diterima. Jika pelayar menghantar isyarat Do Not Track, peristiwa ini tidak dihantar."
+      ]],
+      ["2. Tujuan penggunaan", [
+        "Menyediakan dan mengendalikan Perkhidmatan (mengurus hak tontonan dan menghantar kandungan yang dibeli).",
+        "Memproses pembayaran dan memberikan hak akses.",
+        "Menjalankan analisis untuk menambah baik Perkhidmatan.",
+        "Menjawab pertanyaan."
+      ]],
+      ["3. Perkongsian maklumat", "Kami tidak menjual atau memberikan maklumat peribadi pengguna kepada pihak ketiga, kecuali dalam keadaan yang diperuntukkan oleh undang-undang. Kami bertukar maklumat yang diperlukan dengan platform TikTok untuk memproses pembayaran."],
+      ["4. Penyimpanan dan keselamatan maklumat", "Syarikat menyimpan maklumat yang dikumpulkan dengan selamat dan berusaha mencegah akses tanpa kebenaran, kebocoran dan pengubahan tanpa kebenaran."],
+      ["5. Hak pengguna", "Pengguna boleh meminta Syarikat mendedahkan, membetulkan atau memadam maklumat mereka sendiri."],
+      ["6. Pengguna bawah umur", "Perkhidmatan mungkin menetapkan had umur berdasarkan undang-undang yang terpakai. Pengguna bawah umur hendaklah mendapatkan persetujuan ibu bapa atau penjaga sebelum menggunakan Perkhidmatan."],
+      ["7. Hubungi kami", "Untuk pertanyaan tentang Dasar ini, sila hubungi {email}."]
+    ]
+  }
+}
